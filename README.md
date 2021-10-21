@@ -1,5 +1,5 @@
 # THE Tech Blog
-Week 12 Challenge
+Week 14 Challenge
 
 ---
 
@@ -18,7 +18,7 @@ The following animation demonstrates the functionality of the application:
 ---
 
 ## Built With
-*Node *JS *HandleBars *MySQL
+*Node *JS *HandleBars *MySQL *Sessions
 
 ## Contribution
 Made by Jessica H. 🖤 
